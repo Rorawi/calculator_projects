@@ -31,3 +31,7 @@
     height: 35px;
 }
 
+input:checked ~ box{
+    display: none;
+}
+
